@@ -7,5 +7,9 @@
 - ⚡ Fun fact: everything related to technology attracts me.
 
 Others:
+
 https://hackerone.com/rodolfomarianocy?type=user
-https://tryhackme.com/p/xFriday
+
+https://rodolfomarianocy.medium.com/
+
+![](https://tryhackme-badges.s3.amazonaws.com/xFriday.png)
