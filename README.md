@@ -5,3 +5,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/rodolfomarianocy;
 - 😄 Pronouns: rodolfomarianocy and xFriday;
 - ⚡ Fun fact: everything related to technology attracts me.
+
+Others:
+https://hackerone.com/rodolfomarianocy?type=user
+https://tryhackme.com/p/xFriday
