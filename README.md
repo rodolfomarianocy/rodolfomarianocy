@@ -11,5 +11,3 @@ Others:
 https://hackerone.com/rodolfomarianocy?type=user
 
 https://rodolfomarianocy.medium.com/
-
-![](https://tryhackme-badges.s3.amazonaws.com/xFriday.png)
