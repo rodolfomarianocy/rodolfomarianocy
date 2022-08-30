@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there, you can call me xFriday, 👋
+
+![ok](https://user-images.githubusercontent.com/54555784/187353226-669cd86c-751e-4905-99b3-ec089a1261a7.gif)
 
 - 🔭 I’m currently working in AppSec;
 - 👯 I’m looking to collaborate on security research and open source projects;
 - ⚡ Fun fact: everything related to technology attracts me.
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfomarianocy&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomarianocy&layout=compact&langs_count=16&theme=dracula" />
