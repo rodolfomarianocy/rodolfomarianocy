@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-🔭 I currently work as Application Security Leader and have fun in Red Team  
+🔭 I currently work as a Red Team Technical Leader and have fun in Application Security
   
 ⚡ I’m looking to collaborate on security research and open source projects
 </div>
@@ -31,8 +31,9 @@
     </a>
   </p>
 </div> 
+
 <p align="center">
   <a href="https://hackerone.com/rodolfomarianocy" >
-    <img height="50em" src="https://camo.githubusercontent.com/64969c5f2f2619e70a9f0dd60803e51140cabd2cfc146acbbc2c08aa89c6490e/68747470733a2f2f7777772e6861636b65726f6e652e636f6d2f73697465732f64656661756c742f66696c65732f323031372d30362f6861636b65726f6e655f6c6f676f5f677261792e706e67" />
+    <img height="20em" src="https://github.com/rodolfomarianocy/rodolfomarianocy/assets/54555784/138f6d26-2fe8-42f1-807a-3f708908dba9" />
   </a>
 </p>
