@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, you can call me xFriday! 👋</h1>
+<h1 align="center">Hi there, you can call me xFr1d4y! 👋</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54555784/187353226-669cd86c-751e-4905-99b3-ec089a1261a7.gif">
 </p>
@@ -10,8 +10,8 @@
 </div>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodolfomarianocy&show_icons=true&theme=dracula" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomarianocy&layout=compact&langs_count=16&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rodolfomarianocy&show_icons=true&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rodolfomarianocy&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
 ---
