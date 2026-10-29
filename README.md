@@ -9,11 +9,6 @@
 ⚡ I’m looking to collaborate on security research and open source projects
 </div>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rodolfomarianocy&show_icons=true&theme=dracula" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rodolfomarianocy&layout=compact&langs_count=16&theme=dracula" />
-</div>
-
 ---
 <div>
   <p align="center">
